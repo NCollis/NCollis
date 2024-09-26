@@ -1,3 +1,3 @@
-- 👋 Hi, I’m @NCollis
+- I’m @NCollis
 - I'm interested in using code to automate elements of technical analyst work.
 - The main tools I am learning to use for this are Transact-SQL and Python.
